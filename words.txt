@@ -1,0 +1,14 @@
+apple
+blue
+red
+gold
+yellow
+banana
+cherry
+coconut
+blueberry
+lemon
+orange
+mango
+skyblue
+pineapple
